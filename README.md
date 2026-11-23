@@ -1,5 +1,9 @@
 # 🍎 Freshness AI – Fresh vs Rotten Fruit Detection
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-View%20App-success?style=for-the-badge)](https://fresh-fruits-classification-8vnwfrcvqwiep32ngrcbm9.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
 <p align="center">
 
 **An AI-powered computer vision application that detects whether a fruit is Fresh or Rotten using a custom Convolutional Neural Network (CNN).**
