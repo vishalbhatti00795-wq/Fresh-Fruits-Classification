@@ -1,0 +1,8 @@
+# Keras 3.13 (used to save the model) ships with TensorFlow 2.20+.
+# Use Python 3.10 - 3.12.
+tensorflow>=2.20,<2.22
+streamlit>=1.40
+numpy>=1.26
+pillow>=10.0
+pandas>=2.0
+huggingface_hub
