@@ -420,8 +420,8 @@ Interested in Artificial Intelligence, Machine Learning, Deep Learning, and Comp
 
 ### Connect With Me
 
-- GitHub: [Your GitHub Profile](https://github.com/vishalbhatti00795-wq)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vishal-bhatti-1a864032b/)
+- GitHub:(https://github.com/vishalbhatti00795-wq)
+- LinkedIn:(https://www.linkedin.com/in/vishal-bhatti-1a864032b/)
 
 ---
 
